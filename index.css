@@ -1,0 +1,29 @@
+* {
+  font-family: "Work Sans";
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+body {
+  background-color: #95c9a3;
+}
+
+table {
+  width: 100%;
+}
+
+table, th, td {
+  text-align: center;
+  padding: 5px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 5px;
+  background-color: #d3e8d9;
+}
